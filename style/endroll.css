@@ -1,0 +1,49 @@
+
+#endroll_frame{
+  overflow: hidden;  
+  background-color: #000000;
+  position: absolute;
+}
+
+.endroll {
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  top: 100%;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+.endroll_section{
+  margin:30px auto ;
+}
+
+.endroll_title{
+  /* font-weight: bold; */
+  font-size: 1.1rem;
+}
+
+.endroll_text {
+  margin: 5px auto;
+}
+
+.endroll_text p{
+  margin: 5px auto;
+}
+
+.endroll_image{
+  width: 50%;
+}
+
+.endroll_image img{
+  width: 100%;
+}
+
+.speed_btn{
+  z-index: 3;
+  width: 25%;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}

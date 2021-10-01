@@ -1,0 +1,47 @@
+#save_option{
+  height: 80%;
+}
+#save_option .option{
+  color: #fff;
+  border: #fff 1px solid;
+  border-radius: 25px;
+  margin: 5px auto;
+  width: 90%;
+  height: 23%;
+  cursor: pointer;
+}
+
+#save_option .option .option_text{
+  margin: 5px;
+  display: flex;
+}
+
+.save_icon{
+  margin: 0 5px;
+  width: 20%;
+}
+
+.save_icon img{
+  width: 100%;
+  border-radius: 10%;
+}
+
+.save_prop{
+  width: 80%;
+  margin: auto;
+}
+
+.data_prop{
+  display: flex;
+
+}
+
+.data_page{
+  width: 50%;
+  margin: auto;
+}
+
+.percent{
+  width: 50%;
+  margin: auto;
+}

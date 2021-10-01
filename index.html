@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="ノベルゲーム">
+  <link rel="shortcut icon" href="icon.ico">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@dimyasvariant" />
+  <meta property="og:url" content="https://illionillion.github.io/novelgameproject2021/index.html" />
+  <meta property="og:title" content="Sun And Low" />
+  <meta property="og:description" content="ノベルゲーム「Sun And Low」" />
+  <meta property="og:image" content="https://illionillion.github.io/novelgameproject2021/img/icon.jpg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sun And Low</title>
+  <link rel="stylesheet" href="style/style.css">
+  <link rel="stylesheet" href="style/endroll.css">
+  <link rel="stylesheet" href="style/save.css">
+  <link rel="stylesheet" href="style/background_image.css">
+  <link rel="stylesheet" href="style/character_animation.css">
+</head>
+<body>
+  <main>
+    <div id="screen_frame">
+      <!-- 画面 -->
+      <div id="background_frame">
+        <!-- 背景 -->
+        <div id="character_frame">
+          <div id="character_first">
+            <!-- キャラ1 -->
+            <img src="img/transparent_background.png" alt="character">
+          </div>
+          <div id="character_center">
+            <!-- キャラ -->
+            <img src="img/transparent_background.png" alt="character">
+          </div>
+          <div id="character_second">
+            <!-- キャラ2 -->
+            <img src="img/transparent_background.png" alt="character">
+          </div>
+        </div>
+        <div id="title_frame"  class="sougen">
+          <div id="title_text">
+            <p>Sun And Low</p>
+          </div>
+          <div id="title_btn">
+            <div class="btn">
+              <input type="button" id="view_start" value="click!!">
+            </div>
+            <div id="title_btn_box" class="none">
+              <div class="btn">
+                <input type="button" value="start" onclick="start()">
+              </div>
+              <div class="btn">
+                <input type="button" value="load" onclick="change_load_screen()">
+              </div>
+              <div class="btn">
+                <input type="button" onclick="change_chapter()" value="chapter">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="option_area" class="none">
+          <div class="option none" onclick="branch(this)"><div class="option_text">1</div></div>
+          <div class="option none" onclick="branch(this)"><div class="option_text">2</div></div>
+          <div class="option none" onclick="branch(this)"><div class="option_text">3</div></div>
+          <div class="option none" onclick="branch(this)"><div class="option_text">4</div></div>
+        </div>
+        <div id="save_screen" class="none float_frame">
+          <header>
+            <p id="saveorload"></p>
+            <div class="btn">
+              <input type="button" onclick="toziru()" value="閉じる">
+              <input type="button" id="switching_btn" onclick="" value="">
+            </div>
+          </header>
+          <div id="save_option">
+            <!--セーブ画面 -->
+          </div>
+        </div>
+        <div id="chapter_frame" class="none float_frame">
+          <header>
+            <p>チャプター</p>
+            <div class="btn">
+              <input type="button" onclick="toziru()" value="閉じる">
+            </div>
+          </header>
+          <div id="chapter_option">
+            <!--チャプター -->
+          </div>
+        </div>
+        <div id="flash_frame" class="none">
+
+        </div>
+        <div id="endroll_frame" class="none float_frame">
+          <!-- エンドロール -->
+          <div class="speed_btn">
+            <div class="btn" id="change_endroll_speed">
+              <input type="button" value="切り替え" onclick="endroll_speed()">
+            </div>
+            <div class="btn none" id="back_title_btn">
+              <input type="button" value="タイトルへ">
+            </div>
+          </div>
+          <div class="endroll" id="endroll">
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                企画・シナリオ原案・代表
+              </div>
+              <div class="endroll_text">
+                ゴマ団子
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                メインキャラ設定・副代表
+              </div>
+              <div class="endroll_text">
+                葵　生吹
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                キャラ設定
+              </div>
+              <div class="endroll_text">
+                <p>ゴマ団子</p>
+                <p>牛山</p>
+                <p>コバヤシ</p>
+                <p>ホリ</p>
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                キャラ設定サポート
+              </div>
+              <div class="endroll_text">
+                嵐月
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                シナリオライター
+              </div>
+              <div class="endroll_text">
+                <p>ゴマ団子</p>
+                <p>葵　生吹</p>
+                <p>牛山</p>
+                <p>コバヤシ</p>
+                <p>ホリ</p>
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                キャラクターデザイン・イラスト
+              </div>
+              <div class="endroll_text">
+                <p>出津</p>
+                <p>しゅうまい</p>
+                <p>テツコ</p>
+                <p>あいう</p>
+                <p>おれんじてぃ〜</p>
+                <p>北川ケイ</p>
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                キャラクターデザイン監修
+              </div>
+              <div class="endroll_text">
+                <p>葵　生吹</p>
+                <p>ゴマ団子</p>
+                <p>コバヤシ</p>
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                背景写真
+              </div>
+              <div class="endroll_text">
+                <p>ゴマ団子</p>
+                <p>加藤二四三</p>
+              </div>
+            </div>
+            
+            <div class="endroll_section">
+              <div class="endroll_title">
+                撮影協力
+              </div>
+              <div class="endroll_text">
+                一般社団法人 農laboファクトリー
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                音楽
+              </div>
+              <div class="endroll_text">
+                たかや
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                背景写真・音楽監修
+              </div>
+              <div class="endroll_text">
+                ゴマ団子
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                録音
+              </div>
+              <div class="endroll_text">
+                <p>ゴマ団子</p>
+                <p>葵　生吹</p>
+                <p>牛山</p>
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                <p>主題歌</p>
+                <p>「Datura」</p>
+              </div>
+              <div class="endroll_text">
+                <div class="endroll_section">
+                  <div class="endroll_title">
+                    <p>作詞・作曲</p>
+                  </div>
+                  <div class="endroll_text">
+                    <p>榎(らぴP</p>
+                  </div>
+                </div>
+                <div class="endroll_section">
+                  <div class="endroll_title">
+                    <p>歌</p>
+                  </div>
+                  <div class="endroll_text">
+                    <p>初音ミク</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                エンジニア・プログラマー・ディレクター
+              </div>
+              <div class="endroll_text">
+                セイ
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                プログラマー補助
+              </div>
+              <div class="endroll_text">
+                <p>ホリ</p>
+                <p>たかや</p>
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                広報
+              </div>
+              <div class="endroll_text">
+                <p>牛山</p>
+                <p>ゴマ団子</p>
+                <p>葵　生吹</p>
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                協力
+              </div>
+              <div class="endroll_text">
+                夢猫めろん
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                プロデューサー・制作進行
+              </div>
+              <div class="endroll_text">
+                ゴマ団子
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                プロデューサーサブ
+              </div>
+              <div class="endroll_text">
+                葵　生吹
+              </div>
+            </div>
+
+            <div class="endroll_section">
+              <div class="endroll_title">
+                制作
+              </div>
+              <div class="endroll_text">
+                <p>ナード・クリエイター</p>
+                <p>@Nerd_Creater</p>
+              </div>
+            </div>
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <div class="endroll_secion">
+              <div class="endroll_title">
+                監督
+              </div>
+              <div class="endroll_text">
+                ゴマ団子
+              </div>
+            </div>
+            <div class="endroll_section endroll_image">
+              <img src="img/icon.jpg" alt="icon" srcset="">
+            </div>
+          </div>
+        </div>
+        <div id="user_frame" class="none">
+          <div id="text_frame">
+            <div id="character_name">
+              <!-- character -->
+            </div>
+            <div id="text_area">
+            </div>
+          </div>
+          <div id="controller_frame">
+            <div class="btn"><input type="button" onclick="skip()" value="スキップ"></div>
+            <div class="btn"><input type="button" onclick="next()" value="次へ"></div>
+            <div class="btn"><input type="button" onclick="back()" value="戻る"></div>
+            <div class="btn"><input type="button" onclick="change_save_screen()" value="セーブ"></div>
+            <div class="btn"><input type="button" onclick="change_chapter()" value="チャプター"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script src="jquery/jquery-3.6.0.min.js"></script>
+  <script src="jquery/crypto-js.min.js"></script>
+  <script src="program/reset_console.js"></script>
+  <script src="json/text_data.json.js"></script>
+  <script src="json/add_prop.json.js"></script>
+  <script src="program/add_prop.js"></script>
+  <script src="program/text_data.js"></script>
+  <script src="program/program.js"></script>
+  <script src="program/save.js"></script>
+  <script src="program/effect_check.js"></script>
+  <script src="program/chapter.js"></script>
+  <script src="program/endroll.js"></script>
+  <script src="program/title.js"></script>
+</body>
+</html>
