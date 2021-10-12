@@ -1,6 +1,7 @@
 body{
-  margin-left: 0;
-  margin-right: 0;
+  margin: auto;
+  /* margin-left: 0;
+  margin-right: 0; */
   /* margin: 0; */
   /* width: 500px; */
   /* width: 80%; */
@@ -23,12 +24,6 @@ body{
     width: 58%;
     margin: auto;
   }
-  /* main::before{
-    padding-top: 76%;
-  } */
-  /* #text_area{
-    font-size: 1.2rem;
-  } */
 }
 
 input[type="button"]:focus{

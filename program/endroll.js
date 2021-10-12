@@ -20,6 +20,8 @@ function set_screen_width(){
     screen_width= Number(screen_width.replace( "px" , "" ));
     console.log(screen_width*0.76);
     $('main').css('height',screen_width*0.76);
+  }else{
+    $('main').css('height','');
   }
 }
 

@@ -91,7 +91,7 @@ function change_json_name(data){
 //jsonファイルから読み取る
 $(function() {
 
-  if(location.hostname != ""){
+  if(location.hostname != ""){//ローカルじゃない場合
      try {
         $.getJSON("json/text_data.json" , function(data) {
             change_json_name(data);

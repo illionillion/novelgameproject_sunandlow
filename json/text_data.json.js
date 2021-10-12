@@ -54,7 +54,7 @@ var substitute_text_data={
             { "name": "rand_name", "text": "自分の名前は本当にホシゾラヨゾラだっただろうか？" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "audio/bgm_royal.mp3" },
+        "audio": { "file_path": "" },
         "next_page_option": [
             { "text": "はい", "value": "A5" },
             { "text": "いいえ", "value": "A6" }
@@ -3332,7 +3332,7 @@ var substitute_text_data={
             { "name": "ブッカ", "text": "貴方が探しているのは、司書から聞いた。" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "audio/bgm_temple.mp3" },
+        "audio": { "file_path": "audio/sinpi.mp3" },
         "next_page_option": [
             { "text": "姫様と一緒に研究をしていたのは、本当ですか？", "value": "C3C1" },
             { "text": "大精霊様で間違いないですか？", "value": "C3C2" }
@@ -3711,7 +3711,7 @@ var substitute_text_data={
             { "name": "門番", "text": "「さて、これから何をするんだ？」" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "audio/bgm_temple.mp3" },
+        "audio": { "file_path": "audio/sinpi.mp3" },
         "next_page_option": [
             { "text": "姫様の手がかりを探す", "value": "C3E1" },
             { "text": "庭園の奥へと進む", "value": "C3E2" }
@@ -3730,7 +3730,7 @@ var substitute_text_data={
             { "name": "rand_name", "text": "ふらふらと歩くよりも、精霊に姫様の行方を聞き出そうと考えた。" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "audio/bgm_temple.mp3" },
+        "audio": { "file_path": "audio/sinpi.mp3" },
         "next_page_option": [
             { "text": "姫様が行方不明になる前、何か言っていなかったか？", "value": "C3E1_1" },
             { "text": "姫様は、ここで研究をしていたか？", "value": "C3E1_2" },
@@ -3745,7 +3745,7 @@ var substitute_text_data={
             { "name": "rand_name", "text": "俺は気になることが出来て、足早に庭園を出ていくと、精霊が不思議そうに見てきた。" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "audio/bgm_temple.mp3" },
+        "audio": { "file_path": "audio/sinpi.mp3" },
         "next_page_option": [
             { "text": "門番のところへ", "value": "C4E" }
         ],
@@ -3757,7 +3757,7 @@ var substitute_text_data={
             { "name": "rand_name", "text": "俺は気になることが出来て、足早に庭園を出ていくと、精霊が不思議そうに見てきた。" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "audio/bgm_temple.mp3" },
+        "audio": { "file_path": "audio/sinpi.mp3" },
         "next_page_option": [
             { "text": "門番のところへ", "value": "C4E" }
         ],
@@ -3769,7 +3769,7 @@ var substitute_text_data={
             { "name": "rand_name", "text": "俺は気になることが出来て、足早に庭園を出ていくと、精霊が不思議そうに見てきた。" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "audio/bgm_temple.mp3" },
+        "audio": { "file_path": "audio/sinpi.mp3" },
         "next_page_option": [
             { "text": "門番のところへ", "value": "C4E" }
         ],
@@ -3781,7 +3781,7 @@ var substitute_text_data={
             { "name": "rand_name", "text": "俺は気になることが出来て、足早に庭園を出ていくと、精霊が不思議そうに見てきた。" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "audio/bgm_temple.mp3" },
+        "audio": { "file_path": "audio/sinpi.mp3" },
         "next_page_option": [
             { "text": "門番のところへ", "value": "C4E" }
         ],
@@ -3801,7 +3801,7 @@ var substitute_text_data={
             { "name": "rand_name", "text": "ふらふらと歩くよりも、精霊に姫様の行方を聞き出そうと考えた。" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "audio/bgm_temple.mp3" },
+        "audio": { "file_path": "audio/sinpi.mp3" },
         "next_page_option": [
             { "text": "姫様が行方不明になる前、何か言っていなかったか？", "value": "C3E1_1" },
             { "text": "姫様は、ここで研究をしていたか？", "value": "C3E1_2" },
@@ -3886,13 +3886,13 @@ var substitute_text_data={
     "C3F": {
         "text_data": [
             { "name": "rand_name", "text": "「おかしなことを言っていたり、していなかったか？」" },
-            { "name": "団長", "text": "「おかしなこと……。そんなことはなかった気もするが、始終、精霊の力について話しておいでだった。」" },
+            { "name": "騎士", "text": "「おかしなこと……。そんなことはなかった気もするが、始終、精霊の力について話しておいでだった。」" },
             { "name": "rand_name", "text": "悩みつつも当時の言動について教えてくれた。" },
-            { "name": "団長", "text": "「書物の大精霊様の力は知っているだろう？<br>あの方の力によって、物語の世界に意識を飛ばすことが出来るのだが、資料には入ることが出来ないからな。多分、それについて嘆かれておったのだろう。」" },
+            { "name": "騎士", "text": "「書物の大精霊様の力は知っているだろう？<br>あの方の力によって、物語の世界に意識を飛ばすことが出来るのだが、資料には入ることが出来ないからな。多分、それについて嘆かれておったのだろう。」" },
             { "name": "rand_name", "text": "chose_event" }
 
         ],
-        "audio": { "file_path": "audio/bgm_royal.mp3" },
+        "audio": { "file_path": "" },
         "next_page_option": [
             { "text": "大精霊様の力か", "value": "C3F1" },
             { "text": "世情には疎かったでしょう", "value": "C3F2" }
@@ -3900,26 +3900,26 @@ var substitute_text_data={
     },
     "C3F1": {
         "text_data": [
-            { "name": "団長", "text": "「うむ。大精霊ともなれば、力の桁は、普通の精霊とは変わってくる。その力も絶大だ。」" },
+            { "name": "騎士", "text": "「うむ。大精霊ともなれば、力の桁は、普通の精霊とは変わってくる。その力も絶大だ。」" },
             { "name": "rand_name", "text": "騎士は自分で頷きながら喋っている。" },
-            { "name": "団長", "text": "「本の世界に入れるのは、この国を立ち上げられた初代様が、契約によって成しえられた偉業なのだ。<br>そして、それこそが我が国に利益を生むきっかけになった、最大の偉業なのだ！」" },
+            { "name": "騎士", "text": "「本の世界に入れるのは、この国を立ち上げられた初代様が、契約によって成しえられた偉業なのだ。<br>そして、それこそが我が国に利益を生むきっかけになった、最大の偉業なのだ！」" },
             { "name": "rand_name", "text": "それから数回話し合ったが、 記憶に繋がりそうなことも得られなかった。<br>成果は、 今のところゼロだ。<br> さて、 どうするか。" },
             { "name": "rand_name", "text": "chose_special" }
         ],
-        "audio": { "file_path": "audio/bgm_royal.mp3" },
+        "audio": { "file_path": "" },
         "next_page_option": [
             { "text": "都市", "value": "C3D" }
         ]
     },
     "C3F2": {
         "text_data": [
-            { "name": "団長", "text": "「疎かったという程ではない。皆無なのだ！<br>国王陛下が厳しいのもあってか、学園に通っても婚約者ひとり作られておられない。」" },
+            { "name": "騎士", "text": "「疎かったという程ではない。皆無なのだ！<br>国王陛下が厳しいのもあってか、学園に通っても婚約者ひとり作られておられない。」" },
             { "name": "rand_name", "text": "騎士団長は絶望したような表情をしていた。" },
-            { "name": "団長", "text": "「しかし、我がまだ騎士見習いだった頃、『ニイドギューフの恋人』を読んでいるのを見て、どれだけ安心したか。<br>それまで我は姫様が恋に興味がないと思っていたからな。学者でも、やはり、一人の乙女なのだ。」" },
+            { "name": "騎士", "text": "「しかし、我がまだ騎士見習いだった頃、『ニイドギューフの恋人』を読んでいるのを見て、どれだけ安心したか。<br>それまで我は姫様が恋に興味がないと思っていたからな。学者でも、やはり、一人の乙女なのだ。」" },
             { "name": "rand_name", "text": "ニイドギューフ、聞いたことがあるような、無いような名前だ。<br>それから数回話し合ったが、記憶に繋がりそうなことも得られなかった。<br>成果は、今のところゼロだ。<br>さて、どうするか。" },
             { "name": "rand_name", "text": "chose_special" }
         ],
-        "audio": { "file_path": "audio/bgm_royal.mp3" },
+        "audio": { "file_path": "" },
         "next_page_option": [
             { "text": "都市", "value": "C3D" }
         ]
@@ -4198,7 +4198,7 @@ var substitute_text_data={
             { "name": "rand_name", "text": "扉に向かって走ると、後ろの空間から消滅していくのが分かる。それが後戻りはできないことを意味しているのは、当然のように理解することができた。<br>俺は走り、扉のドアノブを握りしめ、勢いよく開いた。<br>そこは闇だった。<br>どこまで続く闇、その奥に大精霊の姿も見えた。" },
             { "name": "rand_name", "text": "「う、うわぁぁぁ！」" },
             { "name": "rand_name", "text": "俺は闇の中へと消えていった。" },
-            { "name": "rand_name", "text": "endroll" }
+            { "name": "rand_name", "text": "not_endroll" }
         ],
         "audio": { "file_path": "audio/serious.mp3" },
         "next_page_option": [

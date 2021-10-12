@@ -54,18 +54,17 @@ function create_save_frame(){
     save_option_element7.className="data_prop";
     save_option_element5.appendChild(save_option_element7);
 
-    // ページ
-    let save_option_element9=document.createElement("div");
-    save_option_element9.className="data_page";
-    save_option_element9.innerHTML="なし";
-    save_option_element7.appendChild(save_option_element9);
-
     // パーセント
     let save_option_element8=document.createElement("div");
     save_option_element8.className="percent";
     save_option_element8.innerHTML="クリア回数-";
     save_option_element7.appendChild(save_option_element8);
 
+    // ページ
+    let save_option_element9=document.createElement("div");
+    save_option_element9.className="data_page";
+    save_option_element9.innerHTML="なし";
+    save_option_element7.appendChild(save_option_element9);
   }
 }
 
@@ -94,7 +93,9 @@ function change_load_screen(){
   document.querySelector("#save_screen").classList.remove("none");
   // document.querySelector("#save_screen").addEventListener();
   document.getElementById("saveorload").innerHTML="ロードするデータを選択してください。";
+  // document.getElementById("switching_btn").setAttribute('onclick', 'change_delete_screen()');
   document.getElementById("switching_btn").setAttribute('onclick', 'change_save_screen()');
+  // document.getElementById("switching_btn").value="削除";
   document.getElementById("switching_btn").value="セーブ";
   for(let i=0;i<4;i++){
     document.getElementsByClassName("option_count")[i].setAttribute('onclick', 'load(this)');
@@ -102,19 +103,36 @@ function change_load_screen(){
   show_save_prop();
 }
 
+//セーブデータ削除はきつそう…
+function change_delete_screen(){
+  document.querySelector("#save_screen").classList.remove("none");
+  // document.querySelector("#save_screen").addEventListener();
+  document.getElementById("saveorload").innerHTML="削除するデータを選択してください。";
+  document.getElementById("switching_btn").setAttribute('onclick', 'change_save_screen()');
+  document.getElementById("switching_btn").value="セーブ";
+  for(let i=0;i<4;i++){
+    document.getElementsByClassName("option_count")[i].setAttribute('onclick', 'delete_save_data(this)');
+  }
+  show_save_prop();
+}
+
 function show_save_prop(){
   for(let i=0;i<Object.keys(save_file).length;i++){
     
-    var data_page_text=save_file[Object.keys(save_file)[i]]["hero_name"]+"-"+save_file[Object.keys(save_file)[i]]["now_page"]+"-"+save_file[Object.keys(save_file)[i]]["num"];
+    // var data_page_text=save_file[Object.keys(save_file)[i]]["hero_name"]+"-"+save_file[Object.keys(save_file)[i]]["now_page"]+"-"+save_file[Object.keys(save_file)[i]]["num"];
     let image=save_file[Object.keys(save_file)[i]]["image"];
     console.log(image);
 
 
-    if (save_file[Object.keys(save_file)[i]]["hero_name"]!=undefined) {
+    if (save_file[Object.keys(save_file)[i]]["hero_name"]!=undefined && save_file[Object.keys(save_file)[i]]["hero_name"]!=null) {
       document.getElementsByClassName("data_page")[i].innerHTML=save_file[Object.keys(save_file)[i]]["hero_name"];
+    }else{
+      document.getElementsByClassName("data_page")[i].innerHTML="なし"
     }
-    if (save_file[Object.keys(save_file)[i]]["endroll_count"]!=undefined) {
+    if (save_file[Object.keys(save_file)[i]]["endroll_count"]!=undefined && save_file[Object.keys(save_file)[i]]["endroll_count"]!=null) {
       document.getElementsByClassName("percent")[i].innerHTML="クリア回数"+save_file[Object.keys(save_file)[i]]["endroll_count"];
+    }else{
+      document.getElementsByClassName("percent")[i].innerHTML="クリア回数0";
     }
 
     if(image!=undefined){
@@ -130,23 +148,51 @@ function save(index){
   var index_text_data=index.getAttribute("text");
   // console.log(index_data);
 
-  var flag=window.confirm(index_text_data+"にセーブしますか？");
+  // var flag=window.confirm(index_text_data+"にセーブしますか？\n(セーブデータはcookieに保存されます)");
+  // if(location.hostname != ""){
+  //   var flag=window.confirm(index_text_data+"にセーブしますか？\n(セーブデータはcookieに保存されます)");
+  // }else{
+    var flag=window.confirm(index_text_data+"にセーブしますか？\n(セーブデータはWebStorageに保存されます)");
+  // }
 
   if(flag){
-    var save_data2=new Object;
-    //同じオブジェクトを代入できない
-    for(let i=0;i<Object.keys(save_data).length;i++){
-      save_data2[Object.keys(save_data)[i]]=save_data[Object.keys(save_data)[i]];
+    if (Object.keys(save_data).length) {
+
+      save_file[index_data]=Object.assign({},save_data);
+
+      console.log(save_file);
+      
+      // set_cookies(save_file);
+      set_ls(save_file);
+      show_save_prop();
+      
+      alert("セーブしました");
+    }else{
+      alert("セーブできませんでした");
     }
 
-    save_file[index_data]=save_data2;
+    
+  }
+
+}
+
+function delete_save_data(index) {
+  // console.log(save_data);
+  var index_data=index.getAttribute("index");
+  var index_text_data=index.getAttribute("text");
+  // console.log(index_data);
+
+  var flag=window.confirm(index_text_data+"を本当に削除しますか？");
+
+  if(flag){
+
+    save_file[index_data]=null;
 
     console.log(save_file);
     
     show_save_prop();
-    alert("セーブしました");
+    alert("削除しました");
   }
-
 }
 
 
@@ -175,6 +221,8 @@ function load(index){
       console.log(text_animation);
       clearInterval(intervalId);//タイマーをリセットする
       text_animation=null;
+      // start();
+      title_frame.classList.add('none');
       toziru();
       // music_file.pause();
       setTimeout(() => {

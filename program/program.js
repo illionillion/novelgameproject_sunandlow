@@ -26,6 +26,7 @@ const title_frame=document.querySelector('#title_frame');
 function start(){
     setTimeout(() => {
     title_frame.classList.add('none');
+    chose_special_data={"図書館":"C1C","都市":"C1D","学園":"C1E","騎士団":"C1F"};
       // next();
     }, 1000);
 
