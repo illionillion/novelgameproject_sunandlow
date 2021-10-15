@@ -1,4 +1,4 @@
-let remove_console_flag=false;                                            //フラグ
+let remove_console_flag=true;                                            //フラグ
 let save_console={};                                                      //console機能回復用
 
 let ori={"a":"1","b":"2"};
