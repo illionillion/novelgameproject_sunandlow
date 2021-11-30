@@ -242,3 +242,28 @@
   background: url(../background_img/sea3.jpg);
   background-size: cover;
 }
+
+.seiten{
+  background: url(../background_img/seiten.jpg);
+  background-size: cover;
+}
+
+.rojiura{
+  background: url(../background_img/rojiura.jpg);
+  background-size: cover;
+}
+
+.honbu{
+  background: url(../background_img/honbu.jpg);
+  background-size: cover;
+}
+
+.knightshonbu{
+  background: url(../background_img/knightshonbu.jpg);
+  background-size: cover;
+}
+
+.fantasy_hero_room{
+  background: url(../background_img/fantasy_hero_room.jpg);
+  background-size: cover;
+}
