@@ -75,7 +75,7 @@ var substitute_text_data={
             { "name": "rand_name", "text": "俺に残された手は…。" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "audio/flow_water.m4a" },
+        "audio": { "file_path": "" },
         "next_page_option": [
             { "text": "もがく", "value": "A7" },
             { "text": "もがかない", "value": "A8" }
@@ -1264,7 +1264,7 @@ var substitute_text_data={
             { "name": "rand_name", "text": "「ああ。この世界、ウィズアースをこのまま地球に残すか、消してしまうか」" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "" },
+        "audio": { "file_path": "audio/sea.m4a" },
         "next_page_option": [
             { "text": "……", "value": "A43" }
         ]
@@ -1297,7 +1297,7 @@ var substitute_text_data={
             { "name": "rand_name", "text": "「……俺は」" },
             { "name": "rand_name", "text": "chose_event" }
         ],
-        "audio": { "file_path": "" },
+        "audio": { "file_path": "audio/sea.m4a" },
         "next_page_option": [
             { "text": "ウィズアースを残す", "value": "A44" },
             { "text": "ウィズアースを消す", "value": "A45" }
@@ -1327,6 +1327,17 @@ var substitute_text_data={
             { "name": "rand_name", "text": "神様は少し納得した様子を見せると、白い扉を浜辺に作る。" },
             { "name": "神様", "text": "「……本当に大丈夫かい？」" },
             { "name": "rand_name", "text": "「ええ。俺たち地球人ははウィズアースの全ての人たちと生きていくよ。」" },
+            { "name": "rand_name", "text": "go_to_next" }
+        ],
+        "audio": { "file_path": "audio/sea.m4a" },
+        "next_page_option": [
+            { "text": "", "value": "" },
+            { "text": "", "value": "" }
+        ],
+        "go_to_next":"A44_2"
+    },
+    "A44_2": {
+        "text_data": [
             { "name": "rand_name", "text": "They alive with us." },
             { "name": "rand_name", "text": "We alive with With Earth." },
             { "name": "rand_name", "text": "「それじゃ、さようなら！そしてありがとう！神様！」" },
@@ -1362,6 +1373,17 @@ var substitute_text_data={
             { "name": "rand_name", "text": "別れの時だ。" },
             { "name": "rand_name", "text": "「それじゃ、さようなら、神様。『ウィズサン』の事、よろしくお願いします」" },
             { "name": "rand_name", "text": "地球と共に存在しなくなったのなら、ウィズアースではなくウィズサンに戻るだろう。" },
+            { "name": "rand_name", "text": "go_to_next" }
+        ],
+        "audio": { "file_path": "audio/sea.m4a" },
+        "next_page_option": [
+            { "text": "", "value": "" },
+            { "text": "", "value": "" }
+        ],
+        "go_to_next":"A45_2"
+    },
+    "A45_2": {
+        "text_data": [
             { "name": "rand_name", "text": "俺は扉に向けて歩く。" },
             { "name": "rand_name", "text": "ゆっくりと噛み締めるように。" },
             { "name": "rand_name", "text": "Goodbye With Sun." },

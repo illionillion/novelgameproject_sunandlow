@@ -177,7 +177,222 @@ var add_prop_changed = {
             }
         }
     ],
-    "A7": [{
+    "A4": [{
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        }
+    ],
+    "A5": [{
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        }
+    ],
+    "A6": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        }
+    ],
+    "A7": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
             "index": 4,
             "type": "effect",
             "value": {
@@ -228,7 +443,43 @@ var add_prop_changed = {
             }
         }
     ],
-    "A8": [{
+    "A8": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "tunnel"
+            }
+        },
+        {
             "index": 5,
             "type": "effect",
             "value": {
@@ -279,7 +530,8 @@ var add_prop_changed = {
             }
         }
     ],
-    "A9": [{
+    "A9": [
+        {
             "index": 0,
             "type": "background_image",
             "value": {
@@ -1536,91 +1788,91 @@ var add_prop_changed = {
             "index": 0,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 1,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 2,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 3,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 4,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 5,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 6,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 7,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 8,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 9,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 10,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 11,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 12,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         }
     ],
@@ -1628,84 +1880,606 @@ var add_prop_changed = {
             "index": 0,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 1,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 2,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 3,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 4,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 5,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 6,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 7,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 8,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 9,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 10,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
             }
         },
         {
             "index": 11,
             "type": "background_image",
             "value": {
-                "image": "yane"
+                "image": "real_living_room"
+            }
+        }
+    ],
+    "A24": [
+            {
+                "index": 0,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 1,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 2,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 3,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 4,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 5,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 6,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 7,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 8,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 9,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 10,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 11,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 12,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 13,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 14,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 15,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 16,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 17,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 18,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 19,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            },
+            {
+                "index": 20,
+                "type": "background_image",
+                "value": {
+                    "image": "real_living_room"
+                }
+            }
+    ],
+    "A25": [
+        {
+            "index": 0,
+            "type": "effect",
+            "value": {
+                "stop": false,
+                "se": "audio/tobira.m4a"
+            }
+        },
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        }
+    ],
+    "A26": [
+        {
+            "index": 0,
+            "type": "effect",
+            "value": {
+                "stop": false,
+                "se": "audio/tobira.m4a"
+            }
+        },
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        }
+    ],
+    "A27": [
+        {
+            "index": 0,
+            "type": "effect",
+            "value": {
+                "stop": false,
+                "se": "audio/knock.m4a"
+            }
+        },
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "real_hero_room"
             }
         }
     ],
@@ -2102,7 +2876,8 @@ var add_prop_changed = {
             }
         }
     ],
-    "A31": [{
+    "A31": [
+        {
             "index": 2,
             "type": "effect",
             "value": {
@@ -2237,7 +3012,4556 @@ var add_prop_changed = {
             }
         }
     ],
-    "C1": [{
+    "A32": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 20,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 21,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 22,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 23,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 24,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 25,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        }
+    ],
+    "A33": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 20,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 21,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 22,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 23,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 24,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 25,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        }
+    ],
+    "A34_1": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        }
+    ],
+    "A34_2": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        }
+    ],
+    "A35_1": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        }
+    ],
+    "A35_2": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "real_living_room"
+            }
+        }
+    ],
+    "A36": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "cumulonimbs"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 20,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 21,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 22,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 23,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 24,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 25,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 26,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 27,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 28,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 29,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 30,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        },
+        {
+            "index": 31,
+            "type": "background_image",
+            "value": {
+                "image": "city_2"
+            }
+        }
+    ],
+    "A37": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "city_1"
+            }
+        },
+        {
+            "index": 20,
+            "type": "background_image",
+            "value": {
+                "image": "city_1"
+            }
+        },
+        {
+            "index": 21,
+            "type": "background_image",
+            "value": {
+                "image": "city_1"
+            }
+        },
+        {
+            "index": 22,
+            "type": "background_image",
+            "value": {
+                "image": "city_1"
+            }
+        },
+        {
+            "index": 23,
+            "type": "background_image",
+            "value": {
+                "image": "city_1"
+            }
+        },
+        {
+            "index": 24,
+            "type": "background_image",
+            "value": {
+                "image": "city_1"
+            }
+        },
+        {
+            "index": 25,
+            "type": "background_image",
+            "value": {
+                "image": "city_1"
+            }
+        },
+        {
+            "index": 26,
+            "type": "background_image",
+            "value": {
+                "image": "city_1"
+            }
+        },
+        {
+            "index": 27,
+            "type": "background_image",
+            "value": {
+                "image": "city_1"
+            }
+        },
+        {
+            "index": 28,
+            "type": "background_image",
+            "value": {
+                "image": "city_1"
+            }
+        },
+        {
+            "index": 29,
+            "type": "background_image",
+            "value": {
+                "image": "city_1"
+            }
+        }
+    ],
+    "A38": [
+        {
+            "index": 17,
+            "type": "effect",
+            "value": {
+                "stop": false,
+                "se": "audio/labo-paper-take2.mp3"
+            }
+        },
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 20,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 21,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 22,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 23,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 24,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 25,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 26,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 27,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 28,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 29,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 30,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 31,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 32,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 33,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 34,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 35,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 36,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 37,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 38,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 39,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 40,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 41,
+            "type": "background_image",
+            "value": {
+                "image": "openbook"
+            }
+        },
+        {
+            "index": 42,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 43,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 44,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 45,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 46,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 47,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 48,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 49,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 50,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 51,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 52,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 53,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 54,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 55,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 56,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 57,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 58,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 59,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 60,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 61,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 62,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 63,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 64,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 65,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        },
+        {
+            "index": 66,
+            "type": "background_image",
+            "value": {
+                "image": "library"
+            }
+        }
+    ],
+    "A39": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "leaf_and_sky"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "leaf_and_sky"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "leaf_and_sky"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "leaf_and_sky"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "leaf_and_sky"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "leaf_and_sky"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "leaf_and_sky"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "bushes1"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "bushes1"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "bushes1"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "bushes1"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "bushes1"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "bushes1"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "bushes1"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "bushes1"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "bushes1"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "bushes1"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 20,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 21,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 22,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 23,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 24,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 25,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 26,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 27,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 28,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 29,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 30,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 31,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 32,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 33,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 34,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 35,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 36,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 37,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 38,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 39,
+            "type": "background_image",
+            "value": {
+                "image": "yamamodori"
+            }
+        },
+        {
+            "index": 20,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 21,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 22,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 23,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 24,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 25,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 26,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 27,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 28,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 29,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 30,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 31,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 32,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 33,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 34,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 35,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 36,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rain.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        }
+    ],
+    "A40": [
+        {
+            "index": 16,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/onokeasu.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 17,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/onokeasu.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 18,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/onokeasu.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 19,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/onokeasu.png",
+                "character_center": "character_img/transparent_background.png",
+                "character_second": "character_img/rheia.png"
+            }
+        },
+        {
+            "index": 20,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/onokeasu.png",
+                "character_center": "character_img/transparent_background.png",
+                "character_second": "character_img/rheia.png"
+            }
+        },
+        {
+            "index": 21,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/evrin.png",
+                "character_center": "character_img/transparent_background.png",
+                "character_second": "character_img/godon.png"
+            }
+        },
+        {
+            "index": 22,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/evrin.png",
+                "character_center": "character_img/transparent_background.png",
+                "character_second": "character_img/godon.png"
+            }
+        },
+        {
+            "index": 23,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/evrin.png",
+                "character_center": "character_img/transparent_background.png",
+                "character_second": "character_img/godon.png"
+            }
+        },
+        {
+            "index": 24,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/evrin.png",
+                "character_center": "character_img/transparent_background.png",
+                "character_second": "character_img/godon.png"
+            }
+        },
+        {
+            "index": 25,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/surve.png",
+                "character_center": "character_img/transparent_background.png",
+                "character_second": "character_img/zibu.png"
+            }
+        },
+        {
+            "index": 26,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/menia.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 27,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/menia.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 28,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/evrin.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 32,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/onokeasu.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 37,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rheia.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 39,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/rheia.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 43,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/godon.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 44,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/evrin.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 45,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/menia.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 46,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/surve.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 47,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/zibu.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 48,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/surve.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 51,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/zibu.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 52,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/surve.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 53,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/zibu.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 55,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/surve.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 56,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/zibu.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 58,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/zibu.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 61,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/godon.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 63,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/menia.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 64,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/godon.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 65,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/menia.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 66,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/evrin.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 73,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/godon.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 76,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/transparent_background.png",
+                "character_center": "character_img/eastern2.png",
+                "character_second": "character_img/transparent_background.png"
+            }
+        },
+        {
+            "index": 78,
+            "type": "character_position",
+            "value": {
+                "character_first": "character_img/beach2.png",
+                "character_center": "character_img/eastern2.png",
+                "character_second": "character_img/bengal.png"
+            }
+        },
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "machinami"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "machinami"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "machinami"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "machinami"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "machinami"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "machinami"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "machinami"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "machinami"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "machinami"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "machinami"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "machinami"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 20,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 21,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 22,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 23,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 24,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 25,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 26,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 27,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 28,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 29,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 30,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 31,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 32,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 33,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 34,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 35,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 36,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 37,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 38,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 39,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 40,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 41,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 42,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 43,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 44,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 45,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 46,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 47,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 48,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 49,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 50,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 51,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 52,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 53,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 54,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 55,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 56,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 57,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 58,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 59,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 60,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 61,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 62,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 63,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 64,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 65,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 66,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 67,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 68,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 69,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 70,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 71,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 72,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 73,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 74,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 75,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 76,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 77,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 78,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 79,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 80,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 81,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 82,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 83,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 84,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 85,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 86,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 87,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        },
+        {
+            "index": 88,
+            "type": "background_image",
+            "value": {
+                "image": "real_nohara"
+            }
+        }
+    ],
+    "A41": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "black"
+            }
+        }
+    ],
+    "A42": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 20,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 21,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 22,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 23,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 24,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 25,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 26,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 27,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 28,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 29,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 30,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 31,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 32,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 33,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 34,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 35,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 36,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 37,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 38,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 39,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 40,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 41,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 42,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 43,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 44,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 45,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 46,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 47,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 48,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 49,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 50,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 51,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 52,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 53,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 54,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 55,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 56,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 57,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 58,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 59,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 60,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 61,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 62,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        },
+        {
+            "index": 63,
+            "type": "background_image",
+            "value": {
+                "image": "sea1"
+            }
+        }
+    ],
+    "A43": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 20,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 21,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 22,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 23,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        },
+        {
+            "index": 24,
+            "type": "background_image",
+            "value": {
+                "image": "sea2"
+            }
+        }
+    ],
+    "A44": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 20,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 21,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 22,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        }
+    ],
+    "A44_2": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "himawari"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "himawari"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "himawari"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "himawari"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "himawari"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "himawari"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "himawari"
+            }
+        }
+    ],
+    "A45": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "sea3"
+            }
+        }
+    ],
+    "A45_2": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "himawari"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "himawari"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "himawari"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "himawari"
+            }
+        }
+    ],
+    "A46": [
+        {
+            "index": 0,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 1,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 2,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 3,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 4,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 5,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 6,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 7,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 8,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 9,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 10,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 11,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 12,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 13,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 14,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 15,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 16,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 17,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 18,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 19,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 20,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 21,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 22,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 23,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 24,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 25,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 26,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 27,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 28,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 29,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 30,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 31,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 32,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 33,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 34,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 35,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 36,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        },
+        {
+            "index": 37,
+            "type": "background_image",
+            "value": {
+                "image": "dark_bridge"
+            }
+        }
+    ],
+    "C1": [
+        {
             "index": 0,
             "type": "background_image",
             "value": {
@@ -2273,7 +7597,8 @@ var add_prop_changed = {
             }
         }
     ],
-    "C1A": [{
+    "C1A": [
+        {
             "index": 0,
             "type": "background_image",
             "value": {
@@ -40909,7 +46234,8 @@ var add_prop_changed = {
             }
         }
     ],
-    "D13": [{
+    "D13": [
+        {
             "index": 4,
             "type": "effect",
             "value": {

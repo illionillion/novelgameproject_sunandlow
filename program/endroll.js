@@ -144,10 +144,10 @@ function back_title_btn(){
   text_frame.innerHTML="";
   $("#back_title_btn input").val("タイトルへ");
 
-  //アップデート後公開予定
-  // if (endroll_count>1) {
-  //   alert("ホシゾラヨゾラ");
-  // }
+  ////アップデート後公開予定
+  if (endroll_count>=10) {
+    alert("ホシゾラヨゾラ");
+  }
 
 }
 
